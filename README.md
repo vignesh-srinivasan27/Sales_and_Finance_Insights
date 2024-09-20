@@ -1,4 +1,4 @@
-# Sales_and_Finance_Analytics
+# Sales_and_Finance_Insights
 
 # Objective
 AtliQ Hardware, a dynamic player in computer hardware and peripherals, caters to major clients like Amazon, Flipkart, Neptune, Croma, and its own e-stores. Utilizing various channels such as direct, retailer, and distribution, the challenge was clear – extract meaningful insights from the labyrinth of sales and finance data.
